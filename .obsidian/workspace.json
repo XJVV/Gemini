@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "272fa049e55fc1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2244c47958d03f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9999d173ca40e1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
+                "viewState": {
+                  "x": -660,
+                  "y": -2565,
+                  "zoom": -0.046873403420912646
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard Hábitos"
+            }
+          },
+          {
+            "id": "2cf4432bf8271206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/SmartGarden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SmartGarden"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "509e4d544ebd72f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f326889ad8d5e179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ab83ab3ae118e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bbec661c7af0fb08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a6f32f39780debd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f7bfeb89947c94f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f9c65048fad4be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eafea2bbc0a7aa95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "0c7c75085c929e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "75443ddfc1d0002f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5440cf9b454b380d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3eb167f91dd16af2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "1a4ab36a6514b13b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "a0ab83ab3ae118e1",
+  "lastOpenFiles": [
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden",
+    "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/SmartGarden.md",
+    "Vita/Vida Personal/Hábitos/Habit tracker.md",
+    "Vita/00_HOME.canvas",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-09.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-08.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-07.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-06.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-05.md",
+    "2026-01-06.md",
+    "Vita/Vida Personal/Biblioteca/Estantería/Fundamentos dibujo en ingenieria.pdf",
+    "Vita/Vida Personal/Biblioteca/Estantería/El pequeño libro que genera riqueza.pdf",
+    "Vita/Vida Personal/Biblioteca/Estantería/Como piensan los ricos by Morgan Housel.pdf",
+    "Vita/Vita.md",
+    "Vita/Vida Personal/Biblioteca/Fundamentos dibujo en ingenieria.pdf",
+    "Vita/Vida Personal/Fundamentos dibujo en ingenieria.pdf",
+    "Vita/Fundamentos dibujo en ingenieria.pdf",
+    "Fundamentos dibujo en ingenieria.pdf",
+    "Vita/💰 Finanzas/Tesis/🇧🇷 Tesis PagSeguro Digital (PAGS).md",
+    "Vita/💰 Finanzas/Tesis/Tesis de Inversión. New Princes Group NWL.MI.md",
+    "Vita/💰 Finanzas/Tesis/Tesis.md",
+    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
+    "Vita/💰 Finanzas/Tesis/✈️ Tesis de Inversión El Superciclo de Movilidad 2026.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolios.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Portafolio ETF.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Ficha Técnica ETF/Ficha Técnica ETF.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Ficha Técnica ETF/DGRO - iShares Core Dividend Growth ETF.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolio Acciones/Portafolio Acciones.md",
+    "Vita/💰 Finanzas/Portafolio/Portafolio.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭Radar Broadcom_AVGO.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Watchlist.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Visa_V.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Vertiv Holdings_VRT.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar CareTrust REIT_CTRE.md"
+  ]
+}

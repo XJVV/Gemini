@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Vista
+    filters:
+      and:
+        - file.folder == "Vita/Vida Personal/Biblioteca/Libros"
+        - file.name != "Libros"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageFit: contain
