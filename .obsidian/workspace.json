@@ -11,31 +11,28 @@
             "id": "ad9999d173ca40e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
-                "viewState": {
-                  "x": -660,
-                  "y": -2565,
-                  "zoom": -0.046873403420912646
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard Hábitos"
-            }
-          },
-          {
-            "id": "2cf4432bf8271206",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/SmartGarden.md",
+                "file": "Vita/Vida Personal/Hábitos/Dias/2026-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SmartGarden"
+              "title": "2026-01-12"
+            }
+          },
+          {
+            "id": "731ecb59bf52f285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vita/🚀 Desarrollo y Carrera/ITLA/01_Cuatrimestre_Actual/2026-C1/Cálculo Integral/Cálculo Integra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cálculo Integra"
             }
           }
         ],
@@ -112,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🌿 SmartGarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 🌿 SmartGarden"
             }
           },
           {
@@ -190,12 +188,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,42 +209,45 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a0ab83ab3ae118e1",
+  "active": "731ecb59bf52f285",
   "lastOpenFiles": [
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden",
-    "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/SmartGarden.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/01_Cuatrimestre_Actual/2026-C1/2026-C1.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/99_Archivo/99_Archivo.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/01_Cuatrimestre_Actual/01_Cuatrimestre_Actual.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/01_Cuatrimestre_Actual/2026-C1/Cálculo Integral/Cálculo Integra.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/00_Admin/00_Admin.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-12.md",
+    "Vita/💰 Finanzas/Registro de Gastos/Registro de Gastos.md",
+    "Vita/⚙️ ADMIN/🔄 Revisión Semanal.md",
+    "Vita/Vita.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-10.md",
     "Vita/Vida Personal/Hábitos/Habit tracker.md",
+    "Vita/Vida Personal/Vida Personal.md",
+    "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🌿 SmartGarden.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/🤖 Proyecto SmartBot v1 Evasor de Obstáculos.md",
+    "Vita/💰 Finanzas/Tesis/Tesis de Inversión. New Princes Group NWL.MI.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/03_Financial_Analytics/Valoración/EV _EBITDA.md",
+    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
+    "Vita/💰 Finanzas/Tesis/✈️ Tesis de Inversión El Superciclo de Movilidad 2026.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Data Science/Introducción al análisis de datos (Microsoft Learn).md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Data Science/Introducción a la Inteligencia Artificial (Microsoft Learn).md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Data Science/Introducción a la infraestructura en la nube (Microsoft Learn).md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Data Science/Introducción a Agentes Generativos (Microsoft Learn).md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Diagramas/📐 Diagramas.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/02_Modelos/Modelos.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion/Simulacion.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Diagramas",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/02_Modelos",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/00_Docs",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden",
     "Vita/00_HOME.canvas",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-09.md",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-08.md",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-07.md",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-06.md",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-05.md",
-    "2026-01-06.md",
     "Vita/Vida Personal/Biblioteca/Estantería/Fundamentos dibujo en ingenieria.pdf",
     "Vita/Vida Personal/Biblioteca/Estantería/El pequeño libro que genera riqueza.pdf",
     "Vita/Vida Personal/Biblioteca/Estantería/Como piensan los ricos by Morgan Housel.pdf",
-    "Vita/Vita.md",
     "Vita/Vida Personal/Biblioteca/Fundamentos dibujo en ingenieria.pdf",
-    "Vita/Vida Personal/Fundamentos dibujo en ingenieria.pdf",
-    "Vita/Fundamentos dibujo en ingenieria.pdf",
-    "Fundamentos dibujo en ingenieria.pdf",
-    "Vita/💰 Finanzas/Tesis/🇧🇷 Tesis PagSeguro Digital (PAGS).md",
-    "Vita/💰 Finanzas/Tesis/Tesis de Inversión. New Princes Group NWL.MI.md",
-    "Vita/💰 Finanzas/Tesis/Tesis.md",
-    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
-    "Vita/💰 Finanzas/Tesis/✈️ Tesis de Inversión El Superciclo de Movilidad 2026.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolios.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Portafolio ETF.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Ficha Técnica ETF/Ficha Técnica ETF.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Ficha Técnica ETF/DGRO - iShares Core Dividend Growth ETF.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolio Acciones/Portafolio Acciones.md",
-    "Vita/💰 Finanzas/Portafolio/Portafolio.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭Radar Broadcom_AVGO.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Watchlist.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Visa_V.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Vertiv Holdings_VRT.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar CareTrust REIT_CTRE.md"
+    "Vita/Vida Personal/Fundamentos dibujo en ingenieria.pdf"
   ]
 }

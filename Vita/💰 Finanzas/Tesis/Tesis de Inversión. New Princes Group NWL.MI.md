@@ -84,4 +84,4 @@ Newlat ofrece una oportunidad asimétrica. El mercado está esperando a "ver par
 **Veredicto:** _Buy_ (Compra) especulativa basada en valor profundo (_Deep Value_) y catalizador de transformación corporativa.
 
 [[Tesis]]
- #Tesis/NWL 
+ #Finanzas/Tesis/NWL 

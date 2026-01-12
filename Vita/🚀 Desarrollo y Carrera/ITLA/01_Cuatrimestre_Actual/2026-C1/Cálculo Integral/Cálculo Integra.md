@@ -17,3 +17,5 @@
 ## 📅 Tareas Pendientes
 - [ ] Subir práctica de Bucles (Fecha: Viernes 12)
 [[2026-C1]]
+
+Introducción al análisis de circuitos -BOYLESTAD Fundamentos de Circuitos Eléctricos - SADIKU HAYT, KEMMERLY, DURBIN STEVEN. “Análisis de Circuitos en Ingeniería.” Mc Graw

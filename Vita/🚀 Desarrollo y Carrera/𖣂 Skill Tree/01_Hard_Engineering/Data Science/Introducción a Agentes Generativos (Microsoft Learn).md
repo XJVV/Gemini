@@ -1,6 +1,6 @@
 > [!INFO] Metadatos
 > * **Plataforma:** Microsoft Learn (Azure AI Foundry)
-> * **Estado:** #Completado 🟢
+> * **Estado:** Completado 🟢
 > * **Tema Central:** LLMs, RAG y Agentes Autónomos.
 
 > [!NOTE] La Gran Idea

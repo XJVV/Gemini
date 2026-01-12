@@ -1,0 +1,45 @@
+{
+    "version": "5.0",
+    "cultivos": [
+        {
+            "id_cultivo": "Tomato",
+            "origen_datos": "Web Scraping (Extensión Universitaria)",
+            "fuentes": [
+                "UF IFAS",
+                "Cornell Extension",
+                "WikiFarmer",
+                "Purdue Extension"
+            ],
+            "parametros_optimos": {
+                "temperatura_ideal": 25.5,
+                "margen_tolerancia": 5.0
+            }
+        },
+        {
+            "id_cultivo": "Lettuce",
+            "origen_datos": "Web Scraping (Extensión Universitaria)",
+            "fuentes": [
+                "Cornell Extension",
+                "WikiFarmer",
+                "Purdue Extension"
+            ],
+            "parametros_optimos": {
+                "temperatura_ideal": 19.1,
+                "margen_tolerancia": 4.7
+            }
+        },
+        {
+            "id_cultivo": "Habanero Pepper",
+            "origen_datos": "Web Scraping (Extensión Universitaria)",
+            "fuentes": [
+                "UF IFAS",
+                "Cornell Extension",
+                "WikiFarmer"
+            ],
+            "parametros_optimos": {
+                "temperatura_ideal": 21.1,
+                "margen_tolerancia": 5.0
+            }
+        }
+    ]
+}

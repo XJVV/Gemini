@@ -1,6 +1,6 @@
 > [!INFO] Metadatos
 > * **Plataforma:** Microsoft Learn (Azure)
-> * **Estado:** #Completado 🟢
+> * **Estado:** Completado 🟢
 > * **Tema:** Fundamentos de Nube (AZ-900 Parte 1)
 
 

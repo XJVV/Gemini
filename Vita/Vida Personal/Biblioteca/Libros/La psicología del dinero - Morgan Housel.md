@@ -39,7 +39,7 @@ Tenemos que fracasar, perder acciones y aprender la lección para poder entender
 > [!PDF|yellow] [[Como piensan los ricos by Morgan Housel.pdf#page=31&selection=83,0,95,27&color=yellow|Como piensan los ricos by Morgan Housel, p.31]]
 > > Los perros fueron domesticados hace diez mil años y aún conservan algunas conductas de sus antepasados salvajes. Y, aun así, aquí estamos nosotros, con entre veinte y cincuenta años de experiencia en el sistema financiero moderno, con la esperanza de estar perfectamente aclimatados a él. Para una cuestión que está tan influenciada por las emociones frente a los hechos, esto es un problema. Y ayuda a entender por qué no siempre hacemos lo que se supone que deberíamos hacer con el dinero. Todos hacemos locuras con el dinero, porque somos todos relativamente nuevos en este juego, y lo que parece una locura para ti puede tener todo el sentido del mundo para mí. Pero nadie está loco; todos tomamos decisiones basándonos en nuestras experiencias únicas que nos parece que tienen sentido en un momento dado.
 
-Nadie esta loco solo usamos nuestro dinero o inversiones en base a experiencias que en ese momento tiene sentido y puede que para otro no tenga sentido eso seria como la #Tesis/NWL   puede que el análisis de German y el mío este bien ya que para nosotros tiene todo el sentido del mundo o puede que solo sea una lección que aprendamos.
+Nadie esta loco solo usamos nuestro dinero o inversiones en base a experiencias que en ese momento tiene sentido y puede que para otro no tenga sentido eso seria como la #Finanzas/Tesis/NWL   puede que el análisis de German y el mío este bien ya que para nosotros tiene todo el sentido del mundo o puede que solo sea una lección que aprendamos.
 
 ## Capitulo 2: Suerte y riesgo  
 *Nada es ni tan bueno ni tan malo como parece.*  
@@ -137,7 +137,7 @@ El mayor riesgo financiero no es ganar poco, sino no saber cuándo parar. Para c
 
 > [!INFO] Metadatos
 > * **Autor:** Morgan Housel
-> * **Temática:** #Finanzas #Psicología #Mindset
+> * **Temática:** #Finanzas
 > * **Estado:** 🟡 Leyendo / 🟢 Terminado
 > * **Calificación:** ⭐⭐⭐⭐⭐
 

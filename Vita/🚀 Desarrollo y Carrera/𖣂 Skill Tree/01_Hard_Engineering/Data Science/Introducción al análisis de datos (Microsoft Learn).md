@@ -2,7 +2,7 @@
 > * **Plataforma:** Microsoft Learn
 > * **Tecnología:** Microsoft Power BI
 > * **Rol:** Analista de Datos
-> * **Estado:** #Completado 🟢
+> * **Estado:** Completado 🟢
 
 > [!NOTE] La Gran Misión
 > "Los datos son inútiles sin una historia."

@@ -59,5 +59,5 @@ Esta no es una apuesta a que "las aerolíneas son buenos negocios a largo plazo"
 - **CPA:** Gana por eficiencia y conexión con la base de fans latina.
 
 [[Tesis]]
-#Tesis/UAL 
-#Tesis/CPA
+#Finanzas/Tesis/UAL 
+#Finanzas/Tesis/CPA 

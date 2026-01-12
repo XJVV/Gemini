@@ -54,5 +54,5 @@ Esta inversión **NO** es para mantenerla 10 años en la parte de ETFs.
     
 - **Destino de Fondos:** El capital original + el 100% de ganancia se transfiere inmediatamente a **DGRO** y **SCHY** para consolidar la riqueza generada.
 
-#Tesis/STLA
+#Finanzas/Tesis/STLA
 [[Tesis]]

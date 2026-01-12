@@ -1,0 +1,25 @@
+{
+    "ajustes_sistema": {
+        "max_tolerancia_temp": 5.0,
+        "peso_por_defecto": 0.1
+    },
+    "pesos_autoridad": {
+        "FAO": 0.6,
+        "USDA": 0.3,
+        "University": 0.1,
+        "Blog_Experto": 0.1
+    },
+    "alias_cultivos": {
+        "Tomate Cherry": "Tomate",
+        "Tomate Pera": "Tomate",
+        "Lechuga Romana": "Lechuga",
+        "Lechuga Iceberg": "Lechuga",
+        "Chile Habanero": "Pimiento_Picante",
+        "Jalapeño": "Pimiento_Picante",
+        "Fresa": "Fresa"
+    },
+    "tolerancias_especificas": {
+        "Lechuga": 2.0, 
+        "Pimiento_Picante": 6.0
+    }
+}

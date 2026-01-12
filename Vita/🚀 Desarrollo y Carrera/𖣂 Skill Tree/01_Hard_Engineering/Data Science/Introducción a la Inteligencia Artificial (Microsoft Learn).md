@@ -1,7 +1,7 @@
 
 > [!INFO] Metadatos
 > * **Plataforma:** Microsoft Learn
-> * **Estado:** #Completado 🟢
+> * **Estado:** Completado 🟢
 > * **Tipo:** Conceptual / Fundamentos
 
 

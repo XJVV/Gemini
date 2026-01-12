@@ -8,7 +8,7 @@
 * **Sensores:** Sensor de distancia Ultrasónico (HC-SR04).
 * **Actuadores:** Motores DC con caja reductora + Driver L298N (Puente H).
 * **Alimentación:** Baterías Li-ion 18650.
-* **Lenguaje:** C++ (Arduino IDE).
+* **Lenguaje:** C (Arduino IDE).
 
 ---
 
