@@ -1,21 +1,26 @@
-# 📘 Programación I
+---
+tags:
+  - ITLA/Cuatrimestres/2026-C1
+asignatura: Cálculo Integral
+codigo: MAT-102
+profesor: Maximiliano Alvarez
+estado: En curso
+---
+# Cálculo Integral
 
-> [!INFO] Datos
-> * **Profesor:** [Nombre]
-> * **Horario:** Lun/Mie 6:00 PM
-> * **Aula:** Laboratorio 4
-> * **Grupo de WhatsApp:** [Link]
+## 📅 Información
+* **Profesor:** Maximiliano Alvarez
+* **Horario:** Horario:: Viernes de 8:00-13:00
+* **Aula:** Aula:: 4-2E
 
-## 🎯 Evaluación
-- [ ] Primer Parcial (30%)
-- [ ] Segundo Parcial (30%)
-- [ ] Proyecto Final (40%) -> 
+## 🎯 Objetivos
+* Integrales indefinidas, definidas y aplicaciones (áreas, volúmenes).
 
-## 📝 Apuntes por Tema
-* 
+## 📝 Notas de Clase
+* [[Calculo - Clase 01]]
 
-## 📅 Tareas Pendientes
-- [ ] Subir práctica de Bucles (Fecha: Viernes 12)
+## 🧠 Tareas
+- [ ]
 [[2026-C1]]
 
 Introducción al análisis de circuitos -BOYLESTAD Fundamentos de Circuitos Eléctricos - SADIKU HAYT, KEMMERLY, DURBIN STEVEN. “Análisis de Circuitos en Ingeniería.” Mc Graw

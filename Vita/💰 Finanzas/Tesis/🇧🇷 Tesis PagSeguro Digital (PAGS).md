@@ -9,14 +9,14 @@
 ## 📊 1. Los Datos del "Francotirador" (Fundamental Check)
 *Datos extraídos del Screener de Calidad (Enero 2026).*
 
-| Métrica | Valor Actual | Interpretación |
-| :--- | :--- | :--- |
-| **Precio de Entrada** | ~$9.60 - $9.75 | Zona de acumulación "Deep Value". |
-| **PEG Ratio** | **0.51** 💎 | **La Estrella.** Crece el doble de rápido de lo que cuesta. (Cualquier cosa bajo 1.0 es barato). |
-| **Revenue Growth (3Y)** | **21.19%** | Crecimiento de doble dígito sostenido. |
-| **Margen EBIT** | **36.19%** | Altamente rentable. De cada $100, se quedan con $36 antes de impuestos. |
-| **ROE** | **15.11%** | Rentabilidad sobre capital decente, con proyección de subir. |
-| **Deuda Neta / EBITDA** | **0.5x** | Balance Fortaleza. Prácticamente no tienen deuda peligrosa. |
+| Métrica                 | Valor Actual   | Interpretación                                                                                   |
+| :---------------------- | :------------- | :----------------------------------------------------------------------------------------------- |
+| **Precio de Entrada**   | ~$9.60 - $9.75 | Zona de acumulación "Deep Value".                                                                |
+| **PEG Ratio**           | **0.51** 💎    | **La Estrella.** Crece el doble de rápido de lo que cuesta. (Cualquier cosa bajo 1.0 es barato). |
+| **Revenue Growth (3Y)** | **21.19%**     | Crecimiento de doble dígito sostenido.                                                           |
+| **Margen EBIT**         | **36.19%**     | Altamente rentable. De cada $100, se quedan con $36 antes de impuestos.                          |
+| **ROE**                 | **15.11%**     | Rentabilidad sobre capital decente, con proyección de subir.                                     |
+| **Deuda Neta / EBITDA** | **0.5x**       | Balance Fortaleza. Prácticamente no tienen deuda peligrosa.                                      |
 
 ---
 
