@@ -1,4 +1,14 @@
+---
+ticker: V
+precio_entrada: 330
+moat: Efecto Red / Duopolio Global
+tags:
+  - Finanzas/Watchlist/V
+---
+# 🔭 Radar: Visa (V)
 
+> [!QUESTION] ¿Por qué me interesa?
+> Es el peaje de la economía mundial. Ganan dinero cada vez que alguien desliza una tarjeta, sin riesgo de crédito (no prestan dinero, solo lo mueven).
 
 > [!QUESTION] ¿Por qué me interesa?
 > Es el peaje de la economía mundial. Ganan dinero cada vez que alguien desliza una tarjeta, sin riesgo de crédito (no prestan dinero, solo lo mueven). Es tu activo "refugio" dentro de las acciones: si hay recesión, Visa sigue cobrando. Márgenes de beneficio brutales (>50%).

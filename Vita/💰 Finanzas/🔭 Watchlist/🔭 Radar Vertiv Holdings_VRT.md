@@ -1,4 +1,14 @@
+---
+ticker: VRT
+precio_entrada: 145
+moat: Líder Refrigeración Líquida (Picos y Palas)
+tags:
+  - Finanzas/Watchlist/VRT
+---
+# 🔭 Radar: Vertiv Holdings (VRT)
 
+> [!QUESTION] ¿Por qué me interesa?
+> Es la jugada de "Picos y Palas" de la Inteligencia Artificial. No sé quién ganará la guerra de la IA (Google, Microsoft o Meta), pero todos necesitan **Refrigeración Líquida** y **Gestión de Energía** para sus Data Centers.
 > [!QUESTION] ¿Por qué me interesa?
 > Es la jugada de "Picos y Palas" de la Inteligencia Artificial. No sé quién ganará la guerra de la IA (Google, Microsoft o Meta), pero todos necesitan **Refrigeración Líquida** y **Gestión de Energía** para sus Data Centers. Vertiv es el líder mundial en esto.
 

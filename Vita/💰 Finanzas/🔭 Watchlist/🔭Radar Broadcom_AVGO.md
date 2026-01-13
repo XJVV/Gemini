@@ -1,4 +1,12 @@
-
+---
+ticker: AVGO
+precio_entrada: 300
+moat: Infraestructura IA & Software
+tags:
+  - Finanzas/Watchlist/AVGO
+---
+> [!QUESTION] ¿Por qué me interesa?
+> Es el "pico y la pala" de la Inteligencia Artificial. No solo hacen los chips personalizados para Google/Meta, sino que con VMware controlan el software empresarial.
 
 > [!QUESTION] ¿Por qué me interesa?
 > Es el "pico y la pala" de la Inteligencia Artificial. No solo hacen los chips personalizados para Google/Meta, sino que con VMware controlan el software empresarial. Es la empresa de "Crecimiento de Dividendos" más agresiva del sector tecnológico. Actúa como el motor de calidad de tu portafolio.
