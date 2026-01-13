@@ -7,7 +7,7 @@ estado: 🔴 Pendiente
 # Proyecto Final: Modelado de Pieza Mecánica
 
 ## 📋 Requisitos
-Hacer un Video en Teams haciendo los ejercicios de las paginas 126,128,134 y 141 del [[manual de SolidWorks.pdf]]
+Hacer un Video en Teams haciendo los ejercicios de las paginas 126,128,134 y 141 del [[Manual de SolidWorks.pdf]]
 El vídeo debe de cumplir con los siguiente:
 
 1-Grabarse cada persona.
