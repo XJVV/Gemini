@@ -11,7 +11,7 @@ TABLE WITHOUT ID
   file.link as "Día",
   choice(leer, "✅", "❌") as "📖 Leer",
   choice(ejercicio, "✅", "❌") as "💪 Gym",
-  choice(NoFap, "✅", "❌") as "🧠 Deep Work"
+  choice(NoFap, "✅", "❌") as "🛡️ NoFap"
 FROM "Vita/Vida Personal/Hábitos/Dias"
 WHERE file.day <= date(today)
 SORT file.day DESC
