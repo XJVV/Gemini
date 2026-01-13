@@ -1,4 +1,4 @@
-### Últimos 7 días   
+### Últimos 7 días    
 ```dataview
 TABLE WITHOUT ID
   link(file.link, file.name) as "Fecha",
