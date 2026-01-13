@@ -1,3 +1,16 @@
+---
+ticker: NWL.MI
+sector: Consumo Defensivo
+conviction: 5
+precio_entrada: 6.5
+precio_objetivo: 12
+estado: 🟢 Activa
+tags:
+  - "#Finanzas/Tesis/NWL"
+---
+# Tesis de Inversión: New Princes Group (NWL.MI)
+
+*(Aquí empieza tu análisis normal...)*
 ### 1. Resumen Ejecutivo (El "Pitch")
 
 Newlat Food ha dejado de ser una empresa italiana de mediana capitalización para convertirse en uno de los mayores grupos de alimentos y bebidas de Europa tras la adquisición de la británica Princes Limited.
@@ -84,4 +97,4 @@ Newlat ofrece una oportunidad asimétrica. El mercado está esperando a "ver par
 **Veredicto:** _Buy_ (Compra) especulativa basada en valor profundo (_Deep Value_) y catalizador de transformación corporativa.
 
 [[Tesis]]
- #Finanzas/Tesis/NWL 
+

@@ -1,3 +1,16 @@
+---
+ticker: MACRO
+sector: Automotriz / Aeroespacial
+conviction: 3
+precio_entrada: 0
+precio_objetivo: 0
+estado: 🟡 En Desarrollo
+tags:
+  - "#Finanzas/Tesis/UAL"
+  - Finanzas/Tesis/CPA
+---
+# ✈️ Tesis: El Superciclo de Movilidad 2026
+
 **Catalizador Principal:** Copa Mundial de la FIFA 2026 (Norteamérica). **Activos Seleccionados:** United Airlines (NASDAQ: UAL) y Copa Holdings (NYSE: CPA). **Horizonte Temporal:** Q4 2025 - Q3 2026.
 
 ### 1. La Premisa Macroecónomica (El Problema Logístico)
@@ -59,5 +72,3 @@ Esta no es una apuesta a que "las aerolíneas son buenos negocios a largo plazo"
 - **CPA:** Gana por eficiencia y conexión con la base de fans latina.
 
 [[Tesis]]
-#Finanzas/Tesis/UAL 
-#Finanzas/Tesis/CPA 

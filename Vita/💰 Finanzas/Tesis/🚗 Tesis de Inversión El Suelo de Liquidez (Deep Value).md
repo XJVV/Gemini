@@ -1,3 +1,15 @@
+---
+ticker: STRATEGY
+sector: Deep Value
+conviction: 5
+precio_entrada: 0
+precio_objetivo: 0
+estado: 🟢 Activa
+tags:
+  - "#Finanzas/Tesis/STLA"
+---
+# 🚗 Tesis: El Suelo de Liquidez (Deep Value)
+
 **Activo:** Stellantis N.V. (NYSE: STLA / MIL: STLAM) **Rol en el Portafolio:** Generación de Capital (Fase 1) - Apuesta Asimétrica. **Horizonte Temporal:** 12 - 24 meses (Turnaround Play). **Estado Actual:** _Watchlist_ (Esperando capitulación/recorte de dividendo).
 
 ### 1. La Premisa Fundamental (La Dislocación del Precio)
@@ -54,5 +66,4 @@ Esta inversión **NO** es para mantenerla 10 años en la parte de ETFs.
     
 - **Destino de Fondos:** El capital original + el 100% de ganancia se transfiere inmediatamente a **DGRO** y **SCHY** para consolidar la riqueza generada.
 
-#Finanzas/Tesis/STLA
 [[Tesis]]

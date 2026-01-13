@@ -1,3 +1,17 @@
+---
+ticker: PAGS
+sector: Fintech
+conviction: 4
+precio_entrada: 10
+precio_objetivo: 18.5
+estado: 🟢 Activa
+tags:
+  - Finanzas/Tesis/PAGS
+---
+# Tesis PagSeguro Digital (PAGS)
+
+*(Aquí sigue tu análisis...)*
+
 > [!INFO] **Resumen Ejecutivo**
 > **Estrategia:** Fase 1 (Generación de Capital / Value-Turnaround).
 > **La Oportunidad:** PagSeguro es una de las Fintechs más grandes de Brasil. Tras caer un 90% desde sus máximos de 2021 (de $60 a ~$9), el mercado la sigue valorando como una empresa en crisis, pero sus fundamentales dicen que es una máquina de imprimir dinero en crecimiento.
@@ -67,5 +81,4 @@ El mercado no se ha dado cuenta de que la empresa ha evolucionado:
 
 > *"Compramos una empresa de crecimiento tecnológico a precio de banco aburrido."*
 
-#Finanzas/Tesis/PAGS 
 [[Tesis]]  
