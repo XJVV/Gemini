@@ -1,5 +1,3 @@
-# 💰 Terminal Financiera
-
 > [!TIP] Filosofía de Inversión
 > "Regla No. 1: Nunca pierdas dinero. Regla No. 2: Nunca olvides la regla No. 1." — Warren Buffett
 
@@ -12,10 +10,25 @@
 | **Liquidez (Cash)** | 20%             | 10%       |
 | **Renta Variable**  | 80%             | 90%       |
 
-## 🗃️ Gestión de Activos
-* [[Portafolios]] -> Mis posiciones abiertas.
-* [[Tesis]] -> Mis análisis profundos (Why I bought?).
-* [[Registro de Gastos]] -> Control de flujo de caja mensual.
+## 🧭 Secciones Principales
+| Sección | Descripción |
+| :--- | :--- |
+| [[Portafolios]] | 📈 Mis inversiones (Acciones, ETFs, Cripto). |
+| [[Registro de Gastos]] | 💸 Control de ingresos y egresos. |
+| [[Tesis]] | 🧠 Análisis profundos de inversión. |
+| [[🔭 Watchlist]] | 👁️ Activos en vigilancia. |
+
+## 📉 Archivos Financieros Recientes
+*Últimos movimientos detectados en tu bóveda.*
+
+```dataview
+TABLE file.mtime as "Última Modificación", file.folder as "Ubicación"
+FROM "Vita/💰 Finanzas"
+WHERE file.name != this.file.name
+SORT file.mtime DESC
+LIMIT 10
+```
+
 
 ## 🧠 Wikifolio (Conocimiento)
 *Conectado al Skill Tree*

@@ -11,6 +11,6 @@ tema: Introducción a la Interfaz
 * Comandos básicos vistos hoy: ...
 
 ## 🧠 Puntos Clave
-- [ ] Recordar configurar las unidades en mm.
+- Recordar configurar las unidades en mm.
 
 [[Notas CAD-102]]

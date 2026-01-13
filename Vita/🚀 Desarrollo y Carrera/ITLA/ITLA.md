@@ -1,2 +1,0 @@
-[[🚀 Desarrollo y Carrera]]
-

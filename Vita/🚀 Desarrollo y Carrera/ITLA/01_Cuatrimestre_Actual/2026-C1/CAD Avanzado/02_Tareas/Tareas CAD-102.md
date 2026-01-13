@@ -6,3 +6,4 @@ WHERE estado != "🟢 Entregado"
 SORT fecha_entrega ASC
 ```
 
+[[CAD Avanzado]] 
